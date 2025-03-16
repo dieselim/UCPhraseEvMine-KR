@@ -31,3 +31,26 @@ UCPhrase와 EvMine 프레임워크의 한국어 확장 구현이며, 특정 주�
 | 2019-08-21 | "수출허가에 기류 변화 판단 일러…불확실성 여전"         |
 | 2018-12-07 | "\"화웨이 쓰지말라\" 동맹국에 요청…한국 및 LGU+는?"  |
 | ...        | ...                                        |
+
+---
+
+## 🛠️ 기술 스택
+
+- **언어 및 환경**
+  - Python 3.x
+
+- **자연어처리 (NLP)**
+  - `Transformers` (Huggingface)
+  - `KLUE-BERT-base` 모델 활용
+  - `nltk`, `spacy`, `scispacy`, `inflect`, `stop-words`, `Unidecode`
+
+- **머신러닝 및 딥러닝**
+  - `torch` (PyTorch)
+  - `scikit-learn`
+  - `openai` API (GPT-4o 사용)
+
+- **데이터 처리 및 분석**
+  - `pandas`, `numpy`, `orjson`, `Cython`, `datefinder`
+
+- **시각화 및 기타**
+  - `matplotlib`, `termcolor`, `ipdb`
