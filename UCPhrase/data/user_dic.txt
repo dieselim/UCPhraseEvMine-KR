@@ -1,0 +1,283 @@
+3M	NNP
+쓰리엠	NNP
+Applied Materials	NNP
+AMAT	NNP
+어플라이드 머티어리얼즈	NNP
+어플라이드머티어리얼즈	NNP
+AMD	NNP
+에이엠디	NNP
+AP시스템	NNP
+에이피시스템	NNP
+ARM	NNP
+에이알엠	NNP
+ASE	NNP
+에이에스이	NNP
+ASM	NNP
+에이에스엠	NNP
+ASML	NNP
+에이에스엠엘	NNP
+Advantest	NNP
+아드반테스트	NNP
+Amkor	NNP
+앰코	NNP
+Apple	NNP
+애플	NNP
+Bosch	NNP
+보쉬	NNP
+Broadcom	NNP
+브로드컴	NNP
+Cabot	NNP
+캐보트	NNP
+캐봇	NNP
+Cadence	NNP
+케이던스	NNP
+Ceva	NNP
+Corning	NNP
+코닝	NNP
+DB하이텍	NNP
+디비하이텍	NNP
+Daifuku	NNP
+다이후쿠	NNP
+DuPont	NNP
+듀퐁	NNP
+듀폰	NNP
+Entegris	NNP
+인테그리스	NNP
+Fujimi	NNP
+후지미	NNP
+GST	NNP
+지에스티	NNP
+Global Wafers	NNP
+글로벌웨이퍼스	NNP
+GlobalFoundries	NNP
+글로벌파운드리스	NNP
+글로벌파운드리	NNP
+HOYA	NNP
+호야	NNP
+Heraeus Conamic	NNP
+Himax	NNP
+하이맥스	NNP
+Hitachi	NNP
+히타치	NNP
+IBM	NNP
+아이비엠	NNP
+ISC	NNP
+아이에스씨	NNP
+Imagination Technologies	NNP
+이미지네이션 테크놀로지스	NNP
+이미지네이션 테크놀로지	NNP
+이미지네이션테크놀로지	NNP
+이미지네이션	NNP
+Infineon Technologies	NNP
+인피니언 테크놀로지스	NNP
+인피니언 테크놀로지	NNP
+인피니언테크놀로지스	NNP
+인피니언	NNP
+JCET	NNP
+스태츠칩팩	NNP
+스테스칩팩	NNP
+장전과기	NNP
+JSR	NNP
+제이에스알	NNP
+KC Tech	NNP
+케이씨텍	NNP
+KIOXIA	NNP
+키옥시아	NNP
+키오시아	NNP
+KLA	NNP
+케이엘에이	NNP
+KYEC	NNP
+킹위안	NNP
+킹 위안	NNP
+Kokusai	NNP
+고쿠사이	NNP
+LX세미콘	NNP
+엘엑스세미콘	NNP
+Lam Research	NNP
+램리서치	NNP
+램 리서치	NNP
+Marvell	NNP
+마벨	NNP
+MediaTek	NNP
+미디어텍	NNP
+Micron	NNP
+마이크론	NNP
+NVIDIA	NNP
+엔비디아	NNP
+NXP	NNP
+엔엑스피	NNP
+Nikon	NNP
+니콘	NNP
+Novatek	NNP
+노바텍	NNP
+On Semiconductor	NNP
+온세미컨덕터	NNP
+Powertech	NNP
+PTI	NNP
+Qualcomm	NNP
+퀄컴	NNP
+Rambus	NNP
+램버스	NNP
+Realtel	NNP
+Remesas Electoronics	NNP
+르네사스 일렉트로닉스	NNP
+르네사스일렉트로닉스	NNP
+S&S Tech	NNP
+에스앤에스텍	NNP
+SCK솔믹스	NNP
+SCREEN	NNP
+스크린	NNP
+스크린홀딩스	NNP
+스크린 홀딩스	NNP
+SFA반도체	NNP
+SFA	NNP
+SK실트론	NNP
+에스케이실트론	NNP
+SK하이닉스	NNP
+SK 하이닉스	NNP
+에스케이하이닉스	NNP
+SMIC	NNP
+중신궈지	NNP
+에스엠아이씨	NNP
+SPIL	NNP
+SUMCO	NNP
+섬코	NNP
+Shin-Etsu	NNP
+신에쓰	NNP
+신에츠	NNP
+Siltronic	NNP
+실트로닉	NNP
+Soulbrain	NNP
+솔브레인	NNP
+Sumitomo Chemical	NNP
+스미모토화학	NNP
+Synopsys	NNP
+시높시스	NNP
+시놉시스	NNP
+TEL	NNP
+도교일렉트론	NNP
+TI	NNP
+Texas Instruments	NNP
+텍사스 인스트루먼트	NNP
+텍사스인스트루먼트	NNP
+TOL	NNP
+톨브라더스	NNP
+톨 브라더스	NNP
+TSHT	NNP
+화티엔커지	NNP
+화천과기	NNP
+TSMC	NNP
+티에스엠씨	NNP
+Teradyne	NNP
+테러다인	NNP
+테라다인	NNP
+Tosoh	NNP
+토소	NNP
+UMC	NNP
+유나이티드마이크로일렉트로닉스	NNP
+유나이티드 마이크로일렉트로닉스	NNP
+유엠씨	NNP
+Verisilicon	NNP
+베리실리콘	NNP
+Xilinx	NNP
+자일링스	NNP
+eMemory Technology	NNP
+이메모리	NNP
+이메모리 테크놀로지	NNP
+네오셈	NNP
+네패스	NNP
+넥스틴	NNP
+덕산테코피아	NNP
+덕산하이메탈	NNP
+동진쎄미켐	NNP
+디아이	NNP
+디엔에프	NNP
+라온테크	NNP
+레이크머티리얼즈	NNP
+로체시스템즈	NNP
+리노공업	NNP
+미코	NNP
+비씨엔씨	NNP
+삼성전자	NNP
+새솔다이아몬드	NNP
+샘씨엔에스	NNP
+SEMCNS	NNP
+서플러스글로벌	NNP
+시그네틱스	NNP
+신한다이아몬드	NNP
+싸이맥스	NNP
+씨앤지하이테크	NNP
+아나패스	NNP
+아이에이	NNP
+알파홀딩스	NNP
+어보브반도체	NNP
+에스티아이	NNP
+STI	NNP
+에이디테크놀로지	NNP
+에이피티씨	NNP
+APTC	NNP
+에프에스티	NNP
+FST	NNP
+엑시콘	NNP
+엘비루셈	NNP
+엘비세미콘	NNP
+엘오티베큠	NNP
+엠케이전자	NNP
+MKE	NNP
+예스티	NNP
+오로스테크놀로지	NNP
+오션브릿지	NNP
+와이아이케이	NNP
+YIK	NNP
+원익QnC	NNP
+원익IPS	NNP
+원익머트리얼즈	NNP
+원익홀딩스	NNP
+월덱스	NNP
+유니셈	NNP
+유니테스트	NNP
+유진테크	NNP
+이엔에프테크놀로지	NNP
+이오테크닉스	NNP
+인텍플러스	NNP
+인텔	NNP
+Intel	NNP
+제우스	NNP
+제이티	NNP
+제주반도체	NNP
+주성엔지니어링	NNP
+지앤비에스엔지니어링	NNP
+GnBS	NNP
+지앤비에스	NNP
+칩모스	NNP
+칩본드	NNP
+코미코	NNP
+코세스	NNP
+코아시아	NNP
+타이거일렉	NNP
+테스	NNP
+테스나	NNP
+두산테스나	NNP
+테이팩스	NNP
+테크윙	NNP
+텔레칩스	NNP
+티씨케이	NNP
+TCK	NNP
+티에스이	NNP
+TSE	NNP
+피델릭스	NNP
+피에스케이	NNP
+PSK	NNP
+피에스케이홀딩스	NNP
+PSK홀딩스	NNP
+픽셀플러스	NNP
+하나마이크론	NNP
+하나머티리얼즈	NNP
+한미반도체	NNP
+한솔케미칼	NNP
+한양디지텍	NNP
+후성	NNP
+소프트뱅크	NNP
+패키징	NNP
+엘피다	NNP
+D램	NNP

@@ -1,0 +1,6 @@
+{
+    "model": "CNN",
+    "annotator": "core",
+    "num_lm_layers": 12,
+    "threshold": 0.8
+}
